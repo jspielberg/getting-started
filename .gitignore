@@ -3,6 +3,9 @@
 *.a
 *.so
 
+# Emacs temp files
+*~
+
 # Folders
 _obj
 _test
